@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 ## Data Stream
 |  |
 | ------- |
@@ -40,14 +41,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 ## Hash Table
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 ## Counting
 |  |
 | ------- |
