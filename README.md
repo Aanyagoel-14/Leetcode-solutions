@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0355-design-twitter) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0355-design-twitter) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 ## Greedy
