@@ -1,8 +1,8 @@
 class MedianFinder {
 private:
-    // Max Heap (stores the smaller half)
-    priority_queue<int> left;
-    // Min Heap (stores the larger half)
+    // Max heap
+    priority_queue<int, vector<int>> left;
+    // Min heap
     priority_queue<int, vector<int>, greater<int>> right;
 
 public:
@@ -10,36 +10,29 @@ public:
     }
     
     void addNum(int num) {
-        // Step 1: Decide which heap to insert into
-        if (left.empty() || num <= left.top()) {
+        if(left.empty() || num <= left.top())
             left.push(num);
-        } else {
+        else
             right.push(num);
-        }
 
-        // Step 2: Balance the heaps
-
-        // Left has more than one extra element
-        if (left.size() > right.size() + 1) {
+        // Balancing the elements
+        if(left.size() > right.size() + 1) {
             right.push(left.top());
             left.pop();
         }
 
-        // Right has more elements
-        if (right.size() > left.size()) {
+        if(right.size() > left.size()) {
             left.push(right.top());
             right.pop();
         }
     }
     
     double findMedian() {
-        // Odd number of elements
-        if (left.size() > right.size()) {
-            return left.top();
-        }
+       // Odd elements
+       if(left.size() > right.size())
+        return left.top();
 
-        // Even number of elements
-        return (left.top() + right.top()) / 2.0;
+        return (double)(left.top() + right.top())/2;
     }
 };
 
