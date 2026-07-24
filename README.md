@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0355-design-twitter) |
+| [0560-subarray-sum-equals-k](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 ## Greedy
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/1922-count-good-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
