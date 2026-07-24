@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0621-task-scheduler) |
