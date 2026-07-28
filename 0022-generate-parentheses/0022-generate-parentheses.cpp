@@ -1,21 +1,21 @@
 class Solution {
 public:
-   vector<string> ans;
+    vector<string> ans;
 
-    void solve(string s, int open, int close, int n) {
-
-        if (s.length() == 2 * n) {
-            ans.push_back(s);
+    void solve(string curr, int open, int close, int n) {
+        if(curr.length() == 2 * n) {
+            ans.push_back(curr);
             return;
         }
 
-        if (open < n) {
-            solve(s + "(", open + 1, close, n);
+        if(open < n) {
+            solve(curr + "(", open + 1, close, n);
         }
 
-        if (close < open) {
-            solve(s + ")", open, close + 1, n);
+        if(close < open) {
+            solve(curr + ")", open, close + 1, n);
         }
+
     }
 
     vector<string> generateParenthesis(int n) {
