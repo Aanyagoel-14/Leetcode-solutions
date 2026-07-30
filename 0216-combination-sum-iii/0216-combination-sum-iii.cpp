@@ -1,8 +1,6 @@
 class Solution {
 public:
-    void solve(int start, int k, int target,
-               vector<int>& current,
-               vector<vector<int>>& answer) {
+    void solve(int start, int k, int target, vector<int>& current, vector<vector<int>>& answer) {
 
         if(current.size() == k) {
             if(target == 0) {
@@ -11,26 +9,25 @@ public:
             return;
         }
 
-        for(int num = start; num <= 9; num++) {
-
-            if(num > target) {
+        for(int i = start; i <= 9; i++) {
+            if(i > target)
                 break;
-            }
 
-            current.push_back(num);
+            current.push_back(i);
 
-            solve(num + 1, k, target - num, current, answer);
+            // Recursion for next num
+            solve(i + 1, k, target - i, current, answer);
 
             current.pop_back();
         }
+        
     }
 
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<vector<int>> answer;
-        vector<int> current;
+         vector<int> current;
+         vector<vector<int>> answer;
 
-        solve(1, k, n, current, answer);
-
-        return answer; 
+         solve(1, k, n, current, answer);
+         return answer;
     }
 };
