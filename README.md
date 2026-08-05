@@ -124,12 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
