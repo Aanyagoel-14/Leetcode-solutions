@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Design
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Aanyagoel-14/Leetcode-solutions/tree/master/0216-combination-sum-iii) |
