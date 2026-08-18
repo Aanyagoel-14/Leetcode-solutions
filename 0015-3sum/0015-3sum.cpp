@@ -1,53 +1,43 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> ans;
-
-        // Step 1 : Sort the array
         sort(nums.begin(), nums.end());
 
-        // Fix one element
-        for(int i = 0; i < nums.size(); i++) {
+        vector<vector<int>> ans;
+        int n = nums.size();
 
-            // Skip duplicate fixed elements
+        for(int i = 0; i <= n-2; i++) {
             if(i > 0 && nums[i] == nums[i - 1])
                 continue;
 
-            int left = i + 1;
-            int right = nums.size() - 1;
+            int j = i + 1;
+            int k = n - 1;
 
-            while(left < right) {
+            while(j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
 
-                int sum = nums[i] + nums[left] + nums[right];
+                if(sum > 0)
+                    k--;
 
-                if(sum == 0) {
-
-                    ans.push_back({nums[i], nums[left], nums[right]});
-
-                    left++;
-                    right--;
-
-                    // Skip duplicate left values
-                    while(left < right && nums[left] == nums[left - 1])
-                        left++;
-
-                    // Skip duplicate right values
-                    while(left < right && nums[right] == nums[right + 1])
-                        right--;
-                }
-
-                else if(sum < 0) {
-                    // Need a bigger sum
-                    left++;
-                }
+                else if(sum < 0)
+                    j++;
 
                 else {
-                    // Need a smaller sum
-                    right--;
-                }
-            }
-        }
+                    ans.push_back({nums[i], nums[j], nums[k]});
 
+                j++;
+                k--;
+
+                while(j < k && nums[k] == nums[k + 1])
+                    k--;
+
+                while(j < k && nums[j] == nums[j - 1])
+                    j++;
+                }
+
+            }
+
+        }
         return ans;
     }
 };
